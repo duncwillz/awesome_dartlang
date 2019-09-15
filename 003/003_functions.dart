@@ -1,6 +1,6 @@
 // Functions in dart
 
-// Implementing a function
+// Implementing a fuction
 
   String basicInfo(int age){ return "Return type"; }
 // ^^^^     ^^^^    ^^^^            ^^^^
@@ -24,4 +24,3 @@ void main(){
   // Calling a function
   printName();
 }
-
